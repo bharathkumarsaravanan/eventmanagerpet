@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkeventmanagerpet=self.webpackChunkeventmanagerpet||[]).push([[679],{679:(e,s,a)=>{a.r(s),a.d(s,{Logs:()=>t,default:()=>c});a(43);var n=a(579);const t=()=>(0,n.jsx)("div",{className:"logs",children:(0,n.jsx)("h1",{children:"Logs"})}),c=t}}]);
+//# sourceMappingURL=679.f4e59bcf.chunk.js.map
